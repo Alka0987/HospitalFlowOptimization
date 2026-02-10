@@ -1,0 +1,68 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,Feature,Description
+,x_ArrivalDTTM,Arrival time of patient. 
+,x_ScheduledDTTM,Scheduled time of patient's exam.
+,x_BeginDTTM,Begin time of patient's exam.
+,SumHowEarlyWaiting,Sum of how early the patients in line are for their appointment.
+,AvgHowEarlyWaiting,Average of how early the patients in line are for their appointment.
+,LineCount0Strict,Number of patients in line with scheduled times after current time.
+,SumWaits,Sum of the wait times for patients in line.
+,LineCount0/1/2/3/4,"Number of patients in line measured when a patient arrives, 15, 30, 45 & 60 minutes before."
+,FlowCount2/4,Number of patients starting exams in the 30- and 60-minute window before patient arrived.
+,SchFlowCount2/4,Number of patients scheduled in the 30- and 60-minute window before patient arrived.
+,FutFlowCount2/4,Number of patients scheduled in the 30- and 60-minute window after patient arrived.
+,DelayCount,Number of delayed exams up to current time of day.
+,DelayCountLastHour,Number of delayed exams in last hour.
+,mintime,Minimum wait time for the day.
+,maxtime,Maximum wait time for the day.
+,AheadCount,Number of patients scheduled before current patient for the day.
+,ThoracicCount,Number of patients waiting for thoracic exam. 
+,PediatricCount,Number of patients waiting for pediatric exam. 
+,NeuroCount,Number of patients waiting for neuro exam.
+,AbdominalCount,Number of patients waiting for abdominal exam.
+,VascularCount,Number of patients waiting for vascular exam.
+,CardiacCount,Number of patients waiting for cardiac exam.
+,MSKCount,Number of patients waiting for musculoskeletal exam.
+,NumScannersUsedToday,Number of scanners in facility that have been used on that day.
+,SumInProgress,Sum of length of time exams have been in progress.
+,BeforeSlot,Time since last appointment slot.
+,AfterSlot,Time until next appointment slot.
+,Median5,Median delay/wait time for 5 most recent customers.
+,MostRecent1/2/3/4/5,"Delay/wait time for most recent patient, 2nd, 3rd, 4th & 5th most recent patients."
+,StartTime,"Hour of arrival, and 2nd, 3rd & 4th powers of hour of arrival to account for nonlinear trends."
+,IsLast,Last scheduled patient for the day.
+,IsFirst,First scheduled patient for the day.
+,NoneInProgress,No exams in progress.
+,NoneCompleted,No exams completed that day.
+,NoneInLine,No patients in line.
+,SumWaitByTaskTypeLine,Sum of waits of patients in line by exam type.
+,AvgWaitByTaskTypeLine,Average waits of patients in line by exam type.
+,SumTimeToCompleteInProgress,The sum of the expected times to complete of the exams in progress
+,DelayedInLine,The number of patients in line who are delayed.
+,SumDelayWaitingByExamCode,Sum of delays of patients in line by exam type.
+,SumDelayWaitingInLine,Sum of delays/waits of patients in line.
+,SumDelayInProgress,Sum of delays/waits of exams in progress.
+,ExpectedDelayNextExam,Expected delay of the next scheduled exam.
+,AvgAgePeopleWaiting,Average age of the patients in line.
+,DayOfWeek,The day of the week the exam is scheduled.
+,Month,The month of the year the exam is scheduled.
+,DayOfYear,The day of the year the exam is scheduled.
+,InProgressSize,Number of exams in progress for facility.
+,AvgWaitLastK1Customers,"Average wait for the last 2, 4 and 8 customers."
+,NumCompletedToday,Number of exams completed up to current of day.
+,NumCompletedInLastW1/W2/W3,"Number of exams completed in last 30, 60 and 120 minutes."
+,NumCustomersInLastW1/W2/W3,"Number of customers who have arrived in the last 30, 60 & 120 minutes."
+,AvgWaitLastW1/W2/W3,"Average delay/wait time last 30, 60 and 120 minutes."
+,AvgDelayForDay,Average delay/wait for patients for that day.
+,OutpatientWaitingCount,Number of outpatients waiting in line.
+,MalesWaitingCount,Number of male patients waiting in line.
+,NumAddOnsToday,Number of people who have been added to the schedule for today.
+,NumAddOnsLastW2,Number of people who have been added to the schedule in last 60 minutes.
+,NumScheduledNextSlot,Number of patients scheduled in next slot.
+,NumScheduledNextW2,Number of people scheduled in next 60 minutes.
+,SumTimeToCompleteNextSlot,Expected time to completion of exams in next slot.
+,SumTimeToCompleteNextW2,Expected time to completion of exams scheduled in next hour.
+,WithContrastCountWaiting,Number of patients waiting for an exam with contrast.
+,WithAndWithoutContrastCountWaiting,Number of patients waiting for an exam with and without contrast.
+,WithContrastCountInProgress,Number of exams in progress with contrast.
+,WithAndWithoutContrastCountInProgress,Number of exams in progress with and without contrast.
