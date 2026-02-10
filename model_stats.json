@@ -1,0 +1,29 @@
+{
+  "wait_mean": 13.430205650354154,
+  "wait_std": 13.265434267333195,
+  "wait_min": 0.0,
+  "wait_max": 68.0,
+  "n_samples": 99392,
+  "features": [
+    "Hour",
+    "DayOfWeek",
+    "IsWeekend",
+    "Month",
+    "IsEmergency",
+    "IsMRI",
+    "IsCT",
+    "StaffOnDuty",
+    "ArrivalRate",
+    "ServiceRate",
+    "Workload",
+    "QueueLength",
+    "AvgAgePeopleWaiting",
+    "WithContrastCountWaiting"
+  ],
+  "train_mae": 6.589630950617812,
+  "test_mae": 7.481720586722545,
+  "train_r2": 0.5005401017758996,
+  "test_r2": 0.34707357619910384,
+  "cv_mae": 7.496661327264931,
+  "saved_at": "2026-01-27T13:10:16.030767"
+}
