@@ -1,0 +1,8 @@
+Resource_ID,Type,Name,Capabilities,Maintenance_Day
+SCN-01,MRI,MRI Scanner 1,Vascular|Pediatric|Thoracic,Sunday
+SCN-02,MRI,MRI Scanner 2,Abdominal|Thoracic|MSK,Saturday
+SCN-03,MRI,MRI Scanner 3,Abdominal|Pediatric|Cardiac,Wednesday
+SCN-04,MRI,MRI Scanner 4,Abdominal|MSK|Neuro,Wednesday
+SCN-05,CT,CT Scanner 5,Cardiac|Pediatric|MSK,Sunday
+SCN-06,CT,CT Scanner 6,Thoracic|Cardiac|Neuro,Sunday
+SCN-07,CT,CT Scanner 7,Neuro|Thoracic|Abdominal,Wednesday

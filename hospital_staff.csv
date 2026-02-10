@@ -1,0 +1,48 @@
+Staff_ID,Name,Role,Specialty,Salary_Band
+bdd640fb,Daniel Doyle,Radiologist,MSK,Tier-1
+8b9d2434,Javier Johnson,Radiologist,MSK,Tier-1
+9a1de644,Cristian Santos,Radiologist,Pediatric,Tier-1
+72ff5d2a,Rhonda Smith,Radiologist,Abdominal,Tier-1
+6c307511,Christopher Bernard,Radiologist,Neuro,Tier-1
+6142ea7d,Ryan Munoz,Radiologist,Cardiac,Tier-1
+759cde66,Valerie Gray,Radiologist,Thoracic,Tier-1
+a0ee89ae,Shannon Ray,Radiologist,Vascular,Tier-1
+a9488d99,Dylan Miller,Radiologist,MSK,Tier-1
+614ff3d7,Mark Diaz,Radiologist,Vascular,Tier-1
+ab9099a4,Timothy Wong,Radiologist,Pediatric,Tier-1
+88bd6407,Carla Gray,Radiologist,MSK,Tier-1
+b02b61c4,Melinda Cameron,Technician,Imaging,Tier-2
+d261a7ab,Ethan Adams,Technician,Imaging,Tier-2
+9132b63e,Emily Rios,Technician,Imaging,Tier-2
+a491f0b2,Derek Wright,Technician,Imaging,Tier-2
+bf3c4c06,Stephanie Ross,Technician,Imaging,Tier-2
+2369b584,Ann Williams,Technician,Imaging,Tier-2
+28f49481,Jennifer Brown,Technician,Imaging,Tier-2
+77d21e02,Tricia Valencia,Technician,Imaging,Tier-2
+1d53434b,Kimberly Adams,Technician,Imaging,Tier-2
+4b22d308,Jesse Mckay,Technician,Imaging,Tier-2
+f8cda88b,Cassandra Gaines,Technician,Imaging,Tier-2
+d777a477,Lisa Hernandez,Technician,Imaging,Tier-2
+f4188f3f,Kerry Smith,Technician,Imaging,Tier-2
+1ca35cfb,Sherry Decker,Technician,Imaging,Tier-2
+3da9c2a9,Theresa Miller,Technician,Imaging,Tier-2
+fa5d3100,Pamela Anderson,Technician,Imaging,Tier-2
+2a45c2ab,Shane Henderson,Technician,Imaging,Tier-2
+c1590f53,Christina Collins,Technician,Imaging,Tier-2
+5f987c71,Joseph Martinez,Technician,Imaging,Tier-2
+05628059,Crystal Robinson,Technician,Imaging,Tier-2
+0f1259e0,Taylor Heath,Nurse,Triage,Tier-2
+474a493b,Cindy Anderson,Nurse,Triage,Tier-2
+93829b43,Richard Aguirre,Nurse,Triage,Tier-2
+a8b317fa,Jeff Owens,Nurse,Triage,Tier-2
+a748dbcf,Mrs. Jennifer Morgan,Nurse,Triage,Tier-2
+310c0c00,Jerry Henderson,Nurse,Triage,Tier-2
+dfde4fbf,Jessica Callahan,Nurse,Triage,Tier-2
+a6f2f7b8,Dr. Tracy House DVM,Nurse,Triage,Tier-2
+7b3a4e3e,James Brown,Nurse,Triage,Tier-2
+63f2ae24,Richard Gibson,Nurse,Triage,Tier-2
+bb026576,Kristi Higgins MD,Nurse,Triage,Tier-2
+0ef8c2d6,Kimberly Adkins,Nurse,Triage,Tier-2
+7a0ecfea,Sarah Moore,Nurse,Triage,Tier-2
+d9f195d0,Kurt Leonard,Nurse,Triage,Tier-2
+f10c718b,Danielle Wheeler,Nurse,Triage,Tier-2

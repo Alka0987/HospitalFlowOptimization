@@ -1,0 +1,22 @@
+{
+    "hospital_id": "HOSPITAL_A",
+    "db_type": "mysql",
+    "db_connection": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Alka@52092025",
+        "database": "hospital_flow"
+    },
+    "query": "SELECT id, name, entered_at FROM local_patients WHERE entered_at > %s",
+    "timestamp_column": "arrival_time",
+    "poll_interval_sec": 5,
+    "kafka_bootstrap": [
+        "localhost:9092"
+    ],
+    "kafka_topic": "hospital_arrivals",
+    "mapping": {
+        "patient_id": "id",
+        "patient_name": "name",
+        "arrival_time": "entered_at"
+    }
+}
